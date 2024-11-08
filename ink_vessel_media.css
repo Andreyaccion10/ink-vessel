@@ -1,0 +1,567 @@
+@media (max-width: 1545px) {
+  #block_one {
+    width: 100%;
+    width: 778px;
+    height: 100px;
+  }
+  .nav-list {
+    display: flex;
+    margin-left: 350px;
+    column-gap: 40px;
+  }
+  .nav-link_one {
+    font-size: 18px;
+  }
+  .nav-link_two {
+    font-size: 18px;
+  }
+  .nav-link_tress {
+    font-size: 18px;
+  }
+  .img_bird {
+    background: url("images/Layer\ 0\ 1\ \(4\).svg");
+    width: 330px;
+    height: 380px;
+    margin-left: 50px;
+  }
+  .copies_of_paintings {
+    margin-left: 380px;
+    font-size: 36px;
+    margin-top: 190px;
+  }
+  .linen_canvas {
+    margin-left: 380px;
+    margin-top: 300px;
+  }
+  #square_means {
+    margin-left: 380px;
+    margin-top: 400px;
+  }
+  .linen_canvas {
+    width: 330px;
+    font-size: 18px;
+  }
+  .text_assortment {
+    margin-left: 450px;
+    margin-top: 420px;
+  }
+  .text_duplicate {
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: 600px;
+  }
+  #two_top {
+    width: 126px;
+    margin-left: 350px;
+    margin-top: 600px;
+  }
+  .country_France {
+    margin-left: 370px;
+    margin-top: 610px;
+    font-size: 20px;
+  }
+  #country {
+    margin-top: 600px;
+    margin-left: 500px;
+  }
+  .german {
+    margin-left: 525px;
+    margin-top: 610px;
+  }
+  #uk {
+    margin-left: 660px;
+    margin-top: 600px;
+  }
+  .country_uk {
+    margin-left: 680px;
+    margin-top: 610px;
+  }
+  /* Начало big water  */
+  .card_water {
+    margin-left: 100px;
+    margin-top: 700px;
+  }
+  /* Конец big water  */
+  /* Начало Among the leaves  */
+  .card_leaves {
+    margin-left: 450px;
+    margin-top: 700px;
+  }
+  /* Конец Among the leaves  */
+
+  /* Начало procedure  */
+  /* Начало procedure  */
+  .card_procedure {
+    margin-left: 100px;
+    margin-top: 1400px;
+  }
+  /* Конец procedure  */
+  /* Начало втрой карточки с рисунком */
+  /* Начало River and mountains  */
+  .card_River {
+    margin-left: 450px;
+    margin-top: 1400px;
+  }
+  /* Конец River and mountains  */
+  /* Начало Red cat */
+  .card_Red_cat {
+    margin-left: 100px;
+    margin-top: 2100px;
+  }
+  /* Конец Red cat  */
+  /* Начало Bird meal  */
+  .card_Bird_meal {
+    margin-left: 450px;
+    margin-top: 2100px;
+  }
+  /* Конец Bird meal  */
+  /* Конец втрой карточки с рисунком */
+  /* Начало collection_of_works_by_French_writers  */
+  .collection_of_works_by_French_writers {
+    background: url("images/Group\ 211.svg");
+    width: 766px;
+    height: 574px;
+  }
+  .logo_images_star {
+    margin-left: 90px;
+    margin-top: 2570px;
+    width: 60px;
+    height: 60px;
+  }
+  .the_creations_of_French_authors {
+    margin-left: 180px;
+    margin-top: 2570px;
+    font-size: 30px;
+  }
+  .text_collection {
+    margin-left: 100px;
+    margin-top: 2670px;
+    font-size: 18px;
+  }
+  #browse {
+    margin-left: 100px;
+    margin-top: 2870px;
+    width: 210px;
+    height: 60px;
+  }
+  .text_neglect {
+    font-size: 20px;
+    margin-left: 135px;
+    margin-top: 2890px;
+  }
+  /* Конец collection_of_works_by_French_writers */
+  /* Начало the_individual */
+  .image_of_an_easel {
+    margin-top: 3250px;
+    margin-left: 105px;
+    width: 510px;
+    height: 504px;
+  }
+  /* Начало individual  */
+  .detachment {
+    margin-top: 3750px;
+    margin-left: 105px;
+    font-size: 30px;
+  }
+
+  .text_grandeur {
+    margin-top: 3800px;
+    margin-left: 107px;
+    width: 690px;
+    height: 108px;
+  }
+  /* Конец individual  */
+  /* Начало employee */
+  .img_employee_one {
+    margin-top: 3920px;
+    margin-left: 109px;
+  }
+  .img_employee_two {
+    margin-top: 3920px;
+    margin-left: 210px;
+  }
+  .img_employee_tress {
+    margin-top: 3920px;
+    margin-left: 310px;
+  }
+  /* Конец employee  */
+  /* Конец the_individual  */
+  /* Начало Последний блок menu  */
+  #block_menu {
+    width: 778px;
+    height: 250px;
+    margin-top: 4100px;
+  }
+  .img_logo_Star {
+    margin-left: 100px;
+    margin-top: 4135px;
+  }
+  .text_logo_Star {
+    margin-left: 150px;
+    margin-top: 4140px;
+  }
+  .phone_number {
+    margin-left: 590px;
+    margin-top: 4140px;
+  }
+  .atelier {
+    margin-left: 590px;
+    margin-top: 4170px;
+  }
+  /* Начало imitations  */
+  .Playback {
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: 4200px;
+  }
+  .marcel {
+    margin-left: 100px;
+    margin-top: 4230px;
+  }
+  .Cologne {
+    margin-left: 100px;
+    margin-top: 4260px;
+  }
+  .Bristol {
+    margin-left: 100px;
+    margin-top: 4290px;
+  }
+  /* Конец imitations  */
+  /* Начало innovation  */
+  .novelty {
+    margin-left: 300px;
+    margin-top: 4200px;
+  }
+  .year_one {
+    margin-left: 300px;
+    margin-top: 4230px;
+  }
+  .year_two {
+    margin-left: 300px;
+    margin-top: 4260px;
+  }
+  /* Конец innovation  */
+  /* Начало about_us  */
+  .antonyms_about_us {
+    margin-left: 450px;
+    margin-top: 4200px;
+  }
+  /* Конец about_us  */
+  /* Начало social_network  */
+  .facebook {
+    margin-left: 590px;
+    margin-top: 4200px;
+  }
+  .instagram {
+    margin-left: 640px;
+    margin-top: 4200px;
+  }
+  .youtube {
+    margin-left: 680px;
+    margin-top: 4200px;
+  }
+  /* Конец social_network  */
+
+  /* Начало sponsor */
+  .inkwell {
+    margin-left: 590px;
+    margin-top: 4240px;
+  }
+  .thoss_who_stood_up_for_protection {
+    margin-left: 590px;
+    margin-top: 4260px;
+  }
+  /* Конец sponsor  */
+  /* Конец Последний блок menu  */
+}
+@media (max-width: 900px) {
+  #block_one {
+    width: 100%;
+  }
+  .logo {
+    margin-left: 300px;
+  }
+  .text_logo {
+    margin-left: 350px;
+  }
+  #block_one {
+    width: 100%;
+    width: 735px;
+    height: 123px;
+  }
+  .nav-list {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 70px;
+    column-gap: 40px;
+  }
+  .nav-link_one {
+    font-size: 18px;
+  }
+  .nav-link_two {
+    font-size: 18px;
+  }
+  .nav-link_tress {
+    font-size: 18px;
+  }
+  .img_bird {
+    background: url("images/Layer\ 0\ 1\ \(5\).svg");
+    width: 195px;
+    height: 239px;
+    margin-left: 50px;
+    top: 100px;
+  }
+  .copies_of_paintings {
+    margin-left: 280px;
+    font-size: 36px;
+    margin-top: 190px;
+  }
+  .linen_canvas {
+    margin-left: 280px;
+    margin-top: 300px;
+  }
+  #square_means {
+    margin-left: 280px;
+    margin-top: 400px;
+  }
+  .linen_canvas {
+    width: 330px;
+    font-size: 16px;
+  }
+  .text_assortment {
+    margin-left: 350px;
+    margin-top: 420px;
+  }
+  .text_duplicate {
+    margin-left: 60px;
+    font-size: 30px;
+    margin-top: 600px;
+  }
+  #two_top {
+    width: 126px;
+    margin-left: 320px;
+    margin-top: 600px;
+  }
+  .country_France {
+    margin-left: 340px;
+    margin-top: 610px;
+    font-size: 20px;
+  }
+  #country {
+    margin-top: 600px;
+    margin-left: 470px;
+  }
+  .german {
+    margin-left: 490px;
+    margin-top: 610px;
+  }
+  #uk {
+    margin-left: 620px;
+    margin-top: 600px;
+  }
+  .country_uk {
+    margin-left: 640px;
+    margin-top: 610px;
+  }
+  /* Начало big water  */
+  .card_water {
+    margin-left: 50px;
+    margin-top: 700px;
+  }
+  /* Конец big water  */
+  /* Начало Among the leaves  */
+  .card_leaves {
+    margin-left: 420px;
+    margin-top: 700px;
+  }
+  /* Конец Among the leaves  */
+
+  /* Начало procedure  */
+  /* Начало procedure  */
+  .card_procedure {
+    margin-left: 50px;
+    margin-top: 1400px;
+  }
+  /* Конец procedure  */
+  /* Начало втрой карточки с рисунком */
+  /* Начало River and mountains  */
+  .card_River {
+    margin-left: 420px;
+    margin-top: 1400px;
+  }
+  /* Конец River and mountains  */
+  /* Начало Red cat */
+  .card_Red_cat {
+    margin-left: 50px;
+    margin-top: 2100px;
+  }
+  /* Конец Red cat  */
+  /* Начало Bird meal  */
+  .card_Bird_meal {
+    margin-left: 420px;
+    margin-top: 2100px;
+  }
+  /* Конец Bird meal  */
+  /* Конец втрой карточки с рисунком */
+  /* Начало collection_of_works_by_French_writers  */
+  .collection_of_works_by_French_writers {
+    background: url("images/pic_background\ \(1\).svg");
+    width: 665px;
+    height: 410px;
+    top: 300px;
+    margin-left: 50px;
+  }
+  .logo_images_star {
+    margin-left: 90px;
+    margin-top: 2865px;
+    width: 60px;
+    height: 60px;
+  }
+  .the_creations_of_French_authors {
+    margin-left: 180px;
+    margin-top: 2865px;
+    font-size: 30px;
+    font-size: 30px;
+  }
+  .text_collection {
+    margin-left: 100px;
+    margin-top: 2950px;
+    font-size: 18px;
+  }
+  #browse {
+    margin-left: 100px;
+    margin-top: 3130px;
+    width: 210px;
+    height: 60px;
+  }
+  .text_neglect {
+    font-size: 20px;
+    margin-left: 140px;
+    margin-top: 3150px;
+  }
+  /* Конец collection_of_works_by_French_writers */
+  /* Начало the_individual */
+  .image_of_an_easel {
+    margin-top: 3250px;
+    margin-left: 50px;
+    width: 375px;
+    height: 370px;
+  }
+  /* Начало individual  */
+  .detachment {
+    margin-top: 3750px;
+    margin-left: 50px;
+    font-size: 30px;
+  }
+
+  .text_grandeur {
+    margin-top: 3800px;
+    margin-left: 50px;
+    width: 660px;
+    height: 108px;
+    font-size: 18px;
+  }
+  /* Конец individual  */
+  /* Начало employee */
+  .img_employee_one {
+    margin-top: 3940px;
+    margin-left: 50px;
+  }
+  .img_employee_two {
+    margin-top: 3940px;
+    margin-left: 160px;
+  }
+  .img_employee_tress {
+    margin-top: 3940px;
+    margin-left: 270px;
+  }
+  /* Конец employee  */
+  /* Конец the_individual  */
+  /* Начало Последний блок menu  */
+  #block_menu {
+    width: 740px;
+    height: 359px;
+    margin-top: 4100px;
+  }
+  .img_logo_Star {
+    margin-left: 50px;
+    margin-top: 4135px;
+  }
+  .text_logo_Star {
+    margin-left: 100px;
+    margin-top: 4140px;
+  }
+  .phone_number {
+    margin-left: 470px;
+    margin-top: 4140px;
+  }
+  .atelier {
+    margin-left: 470px;
+    margin-top: 4170px;
+  }
+  /* Начало imitations  */
+  .Playback {
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 4230px;
+  }
+  .marcel {
+    margin-left: 50px;
+    margin-top: 4260px;
+  }
+  .Cologne {
+    margin-left: 50px;
+    margin-top: 4290px;
+  }
+  .Bristol {
+    margin-left: 50px;
+    margin-top: 4320px;
+  }
+  /* Конец imitations  */
+  /* Начало innovation  */
+  .novelty {
+    margin-left: 340px;
+    margin-top: 4230px;
+  }
+  .year_one {
+    margin-left: 340px;
+    margin-top: 4260px;
+  }
+  .year_two {
+    margin-left: 340px;
+    margin-top: 4290px;
+  }
+  /* Конец innovation  */
+  /* Начало about_us  */
+  .antonyms_about_us {
+    margin-left: 500px;
+    margin-top: 4230px;
+  }
+  /* Конец about_us  */
+  /* Начало social_network  */
+  .facebook {
+    margin-left: 300px;
+    margin-top: 4390px;
+  }
+  .instagram {
+    margin-left: 340px;
+    margin-top: 4390px;
+  }
+  .youtube {
+    margin-left: 380px;
+    margin-top: 4390px;
+  }
+  /* Конец social_network  */
+
+  /* Начало sponsor */
+  .inkwell {
+    margin-left: 290px;
+    margin-top: 4420px;
+  }
+  .thoss_who_stood_up_for_protection {
+    margin-left: 370px;
+    margin-top: 4420px;
+  }
+  /* Конец sponsor  */
+  /* Конец Последний блок menu  */
+}

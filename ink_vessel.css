@@ -1,0 +1,909 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "Raleway bold";
+  src: url("Font_ink_vessel/ofont.ru_Raleway.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway Medium";
+  src: url("Font_ink_vessel/ofont.ru_Raleway\ \(2\).ttf");
+  font-style: normal;
+}
+#block_one {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  background-color: #e1ede6;
+}
+.logo {
+  position: absolute;
+  margin-left: 165px;
+  margin-top: 10px;
+  z-index: 11;
+  width: 35px;
+  height: 35px;
+}
+.text_logo {
+  position: absolute;
+  font-family: "Raleway bold";
+  font-style: normal;
+  color: #598d66;
+  margin-left: 205px;
+  margin-top: 17px;
+  font-size: 20px;
+}
+.nav-list {
+  display: flex;
+  position: absolute;
+  column-gap: 90px;
+  margin-left: 700px;
+  margin-top: 20px;
+  font-size: 20px;
+  list-style: none;
+}
+.nav-link_one {
+  color: #2c2d35;
+  text-decoration: none;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  font-size: 20px;
+}
+.nav-link_two {
+  color: #2c2d35;
+  text-decoration: none;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  font-size: 20px;
+}
+.nav-link_tress {
+  color: #2c2d35;
+  text-decoration: none;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  font-size: 20px;
+}
+
+.img_bird {
+  position: absolute;
+  background: url("images/Layer\ 0\ 1\ \(1\).svg");
+  width: 540px;
+  height: 621px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.copies_of_paintings {
+  position: absolute;
+  margin-left: 680px;
+  margin-top: 230px;
+  font-size: 40px;
+  font-family: "Raleway Medium";
+  width: 330px;
+  font-style: normal;
+}
+.copies_of_paintings o {
+  color: #598d66;
+}
+
+#square_means {
+  position: absolute;
+  width: 227px;
+  height: 65px;
+  border: 1px solid #598d66;
+  margin-left: 680px;
+  margin-top: 466px;
+}
+.linen_canvas {
+  position: absolute;
+  margin-left: 680px;
+  margin-top: 340px;
+  color: #86928b;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  width: 330px;
+}
+.text_assortment {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 485px;
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #598d66;
+}
+.text_duplicate {
+  position: absolute;
+  margin-left: 160px;
+  margin-top: 900px;
+  font-size: 40px;
+  color: #000;
+}
+#two_top {
+  position: absolute;
+  width: 126px;
+  height: 43px;
+  background-color: #376b44;
+  margin-left: 750px;
+  margin-top: 900px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.country_France {
+  position: absolute;
+  margin-left: 770px;
+  margin-top: 910px;
+  color: #ffff;
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#country {
+  position: absolute;
+  background-color: #d4e8d9;
+  width: 135px;
+  height: 43px;
+  margin-top: 900px;
+  margin-left: 950px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.german {
+  position: absolute;
+  margin-left: 975px;
+  margin-top: 910px;
+}
+.german p {
+  font-size: 20px;
+  color: #2c2d35;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#uk {
+  position: absolute;
+  background-color: #d4e8d9;
+  width: 108px;
+  height: 43px;
+  margin-left: 1150px;
+  margin-top: 900px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.country_uk {
+  position: absolute;
+  margin-left: 1170px;
+  margin-top: 910px;
+}
+.country_uk p {
+  font-size: 20px;
+  color: #2c2d35;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+/*  первая карточка с рисунком  */
+/* Начало big water  */
+.card_water {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 150px;
+  margin-top: 1000px;
+}
+.card-img-top {
+  width: 270px;
+  height: 395px;
+  margin-left: 10px;
+}
+.Walter_Hartmann {
+  margin-left: 9px;
+  line-height: 7px;
+  height: 21px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+  width: 162px;
+}
+.card-title {
+  height: 35px;
+  color: #2c2d35;
+  font-size: 30px;
+  margin-left: 9px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  width: 310px;
+}
+.card-text {
+  font-size: 18px;
+  width: 310px;
+  height: 21px;
+  margin-left: 9px;
+  line-height: 30px;
+  height: 21px;
+  width: 310px;
+  color: #2c2d35;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+.price_in_rubles {
+  margin-left: 9px;
+  font-size: 24px;
+  width: 125px;
+  height: 28px;
+  margin-top: 40px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#withdraw {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+  z-index: 999;
+}
+.primary {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец big water  */
+/* Начало Among the leaves  */
+.card_leaves {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 500px;
+  margin-top: 1000px;
+}
+.card-img-leaves {
+  width: 270px;
+  height: 400px;
+  margin-left: 10px;
+}
+.Martin_Mayer {
+  margin-left: 12px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+  line-height: 7px;
+}
+.card-title-leaves {
+  height: 35px;
+  color: #2c2d35;
+  margin-top: 9px;
+  font-size: 30px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  width: 310px;
+  margin-left: 10px;
+}
+.card-text-leaves {
+  margin-left: 10px;
+  margin-top: 9px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  width: 310px;
+  height: 21px;
+}
+.price_in_rubles_two {
+  margin-left: 10px;
+  margin-top: 35px;
+  font-size: 24px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #598d66;
+}
+#leaves {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+  z-index: 999;
+}
+.primary_two {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец Among the leaves  */
+/* Начало procedure  */
+.card_procedure {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 850px;
+  margin-top: 1000px;
+}
+.card-img-procedure {
+  width: 270px;
+  height: 400px;
+  margin-left: 10px;
+}
+.Francois_Dupont {
+  margin-left: 10px;
+  font-size: 18px;
+  color: #86928b;
+  line-height: 7px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+.card-title_procedure {
+  width: 310px;
+  height: 35px;
+  margin-top: 9px;
+  margin-left: 10px;
+  font-size: 30px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+}
+.card-text_procedure {
+  width: 310px;
+  height: 21px;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+}
+.price_in_rubles_tress {
+  width: 127px;
+  height: 28px;
+  font-size: 24px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #598d66;
+  margin-top: 35px;
+  margin-left: 15px;
+}
+#procedure {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+}
+.primary_tress {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец procedure  */
+/* Конец первая карточка с рисунком  */
+/* Начало втрой карточки с рисунком */
+/* Начало River and mountains  */
+.card_River {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 150px;
+  margin-top: 1700px;
+}
+.card-img-River {
+  width: 270px;
+  height: 400px;
+  margin-left: 10px;
+}
+.Jim_Watson {
+  margin-left: 10px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+  color: #86928b;
+  line-height: 7px;
+}
+.card-title_River {
+  font-size: 30px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.card-text_River {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.rice_in_rubles_cuatro {
+  font-size: 24px;
+  color: #598d66;
+  margin-left: 10px;
+  margin-top: 35px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#River {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+}
+.primary_cuatro {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец River and mountains  */
+/* Начало Red cat */
+.card_Red_cat {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 500px;
+  margin-top: 1700px;
+}
+.card-img-Red_cat {
+  width: 270px;
+  height: 400px;
+  margin-left: 10px;
+}
+.Alfred_Barr {
+  font-size: 18px;
+  color: #86928b;
+  line-height: 7px;
+  margin-left: 10px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+.card-title_Red_cat {
+  font-size: 30px;
+  margin-left: 10px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  margin-top: 10px;
+  color: #2c2d35;
+}
+.card-text_Red_cat {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: #2c2d35;
+}
+.rice_in_rubles_cinco {
+  font-size: 24px;
+  color: #598d66;
+  margin-left: 10px;
+  margin-top: 35px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#Red_cat {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+}
+.primary_cinco {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец Red cat  */
+/* Начало Bird meal  */
+.card_Bird_meal {
+  position: absolute;
+  width: 350px;
+  height: 650px;
+  background-color: #e1ede6;
+  margin-left: 850px;
+  margin-top: 1700px;
+}
+.card-img-Bird_meal {
+  width: 270px;
+  height: 400px;
+  margin-left: 10px;
+}
+.Francois_Dupont {
+  font-size: 18px;
+  color: #86928b;
+  line-height: 7px;
+  margin-left: 10px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+.card-title_Bird_meal {
+  font-size: 30px;
+  margin-left: 10px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  margin-top: 10px;
+  color: #2c2d35;
+}
+.card-text_Bird_meal {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.rice_in_rubles_ciec {
+  font-size: 24px;
+  color: #598d66;
+  margin-left: 10px;
+  margin-top: 35px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+#Bird_meal {
+  margin-left: 9px;
+  margin-top: 10px;
+  width: 265px;
+  height: 65px;
+  border: 1px solid #598d66;
+}
+.primary_ciec {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: #598d66;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  text-decoration: none;
+}
+/* Конец Bird meal  */
+/* Конец втрой карточки с рисунком */
+/* Начало collection_of_works_by_French_writers */
+.collection_of_works_by_French_writers {
+  position: absolute;
+  background: url("images/pic_background.svg");
+  width: 1440px;
+  height: 574px;
+  margin-top: 2500px;
+}
+.logo_images_star {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  margin-left: 150px;
+  margin-top: 2555px;
+}
+.the_creations_of_French_authors {
+  position: absolute;
+  margin-left: 250px;
+  font-size: 40px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  width: 421px;
+  height: 80px;
+  color: #f4f6f5;
+  margin-top: 2555px;
+}
+.text_collection {
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 2700px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #ffffff;
+}
+#browse {
+  position: absolute;
+  width: 257px;
+  height: 65px;
+  background-color: #eedb6d;
+  margin-left: 170px;
+  margin-top: 2950px;
+}
+.text_neglect {
+  position: absolute;
+  margin-left: 235px;
+  color: #2c2d35;
+  margin-top: 2970px;
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+/* Конец collection_of_works_by_French_writers */
+/* Начало the_individual */
+.image_of_an_easel {
+  position: absolute;
+  margin-top: 3250px;
+  margin-left: 175px;
+  width: 445px;
+  height: 440px;
+}
+/* Начало individual  */
+.detachment {
+  position: absolute;
+  margin-top: 3370px;
+  margin-left: 675px;
+  font-size: 40px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  width: 311px;
+}
+.text_grandeur {
+  position: absolute;
+  margin-top: 3430px;
+  margin-left: 675px;
+  color: #2c2d35;
+  width: 635px;
+  height: 108px;
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+/* Конец individual  */
+/* Начало employee */
+.img_employee_one {
+  position: absolute;
+  margin-top: 3540px;
+  margin-left: 675px;
+}
+.img_employee_two {
+  position: absolute;
+  margin-top: 3540px;
+  margin-left: 790px;
+}
+.img_employee_tress {
+  position: absolute;
+  margin-top: 3540px;
+  margin-left: 900px;
+}
+/* Конец employee  */
+/* Конец the_individual  */
+/* Начало Последний блок menu  */
+#block_menu {
+  position: absolute;
+  width: 1440px;
+  height: 168px;
+  background-color: #e1ede6;
+  margin-top: 3800px;
+}
+.img_logo_Star {
+  position: absolute;
+  margin-left: 175px;
+  margin-top: 3835px;
+}
+.text_logo_Star {
+  position: absolute;
+  margin-left: 220px;
+  margin-top: 3840px;
+}
+.text_logo_Star h5 {
+  font-size: 20px;
+  font-family: "Raleway bold";
+  font-style: normal;
+  color: #598d66;
+}
+.phone_number {
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 3910px;
+}
+.phone_number p {
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+  width: 170px;
+  height: 23px;
+}
+.atelier {
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 3950px;
+}
+.atelier p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+/* Начало imitations  */
+.Playback {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 3840px;
+}
+.Playback h2 {
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+}
+.marcel {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 3880px;
+}
+.marcel p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+.Cologne {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 3920px;
+}
+.Cologne p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+.Bristol {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 3950px;
+}
+.Bristol {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+/* Конец imitations  */
+/* Начало innovation  */
+.novelty {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 3840px;
+}
+.novelty h2 {
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+}
+.year_one {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 3880px;
+}
+.year_one p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+.year_two {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 3920px;
+}
+.year_two p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+/* Конец innovation  */
+
+/* Начало about_us  */
+.antonyms_about_us {
+  position: absolute;
+  margin-left: 870px;
+  margin-top: 3840px;
+}
+.antonyms_about_us h2 {
+  font-size: 20px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #2c2d35;
+}
+.painter {
+  margin-top: 20px;
+}
+.painter p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+.manager {
+  margin-top: 20px;
+}
+.manager p {
+  font-size: 18px;
+  font-family: "Raleway Medium";
+  font-style: normal;
+  color: #86928b;
+}
+/* Конец about_us  */
+/* Начало social_network  */
+.facebook {
+  position: absolute;
+  margin-left: 1300px;
+  margin-top: 3840px;
+}
+.instagram {
+  position: absolute;
+  margin-left: 1350px;
+  margin-top: 3840px;
+}
+.youtube {
+  position: absolute;
+  margin-left: 1400px;
+  margin-top: 3840px;
+}
+/* Конец social_network  */
+/* Финальная линия для верстки  */
+
+/* Начало sponsor */
+.inkwell {
+  position: absolute;
+  margin-left: 1300px;
+  margin-top: 3880px;
+  width: 132px;
+}
+.inkwell p {
+  font-size: 12px;
+  color: #86928b;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+.thoss_who_stood_up_for_protection {
+  position: absolute;
+  margin-left: 1300px;
+  margin-top: 3900px;
+  width: 132px;
+}
+.thoss_who_stood_up_for_protection p {
+  font-size: 12px;
+  color: #86928b;
+  font-family: "Raleway Medium";
+  font-style: normal;
+}
+/* Конец sponsor  */
+/* Конец Последний блок menu  */
